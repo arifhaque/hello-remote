@@ -1,1 +1,2 @@
 Let's add some text in the file.
+This is the second line.
